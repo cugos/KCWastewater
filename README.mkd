@@ -3,4 +3,4 @@ KC Wastewater Treatment Division
 
 # Overview
 
-Open Source GIS Projects for King County's Wastewater Treatment Division
+Open Source GIS Projects for King County's Wastewater Treatment Division.
